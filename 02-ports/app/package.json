@@ -1,0 +1,14 @@
+{
+  "name": "02-ports",
+  "version": "0.0.0",
+  "description": "* NodeJS (https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server) * NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johannes Schickling <schickling.j@gmail.com> (https://github.com/schickling)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.4.3"
+  }
+}
