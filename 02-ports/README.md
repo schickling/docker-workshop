@@ -3,6 +3,8 @@
 * NodeJS (https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ubuntu-14-04-server)
 * NPM
 
+*Hint: Node binary is called `nodejs` for stock apt repo.*
+
 ## Install
 
 ```sh
